@@ -1,0 +1,5 @@
+# Ignore folders.
+**/data/
+
+# Ignore files.
+*.swp
